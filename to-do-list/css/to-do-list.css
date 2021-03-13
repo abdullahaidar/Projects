@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-color:blanchedalmond
+}
+
+main{
+
+  width: 40%;
+  height: 600px;
+  margin: 5% auto;
+    
+}
+
+button{
+    background-color: rgb(159, 199, 162);
+    border: none;
+    padding: 12px 32px;
+    font-size: 1.2rem;
+
+}
+
+#input{
+    width: 50%;
+    height: 7%;
+    margin-right: 10px;
+    background-color: blanchedalmond;
+    font-size: 1.2rem;
+}
+
+.tasks {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(159, 199, 162) ;
+    width: 45%;
+    height: 7%;
+    margin-left: 4%;
+    font-size: 1.2rem;
+    padding: 10px 20px 1px 20px;
+  }  
